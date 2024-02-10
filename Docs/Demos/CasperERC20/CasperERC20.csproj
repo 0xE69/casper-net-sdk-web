@@ -9,7 +9,7 @@
     <ItemGroup>
       <PackageReference Include="Blazored.LocalStorage" Version="4.2.0" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.2" />
-      <PackageReference Include="Radzen.Blazor" Version="3.13.10" />
+      <PackageReference Include="Radzen.Blazor" Version="4.13.5" />
       <PackageReference Include="Casper.Network.SDK.Clients" Version="1.1.0" />
     </ItemGroup>
 
